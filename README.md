@@ -16,3 +16,6 @@ Actually, it's an assignment... But hey! Why don't make something fun of it! Lik
 On this codeplex page you can follow our progress in the development of our racer...
 
 If you more information, just contact us!
+
+
+https://www.youtube.com/watch?v=cvPvdk99f0A
